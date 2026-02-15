@@ -1,0 +1,6 @@
+// Shared variables/mixins - no Vuetify import to avoid resolution issues
+// when additionalData injects this into Vuetify's styles
+@mixin pn-cover-image($url) {
+  background-image: $url;
+  padding: 16px; // 4 * $spacer (Vuetify default)
+}
