@@ -69,6 +69,12 @@ GRANT ALL PRIVILEGES ON `nest-nuxt-auth`.* TO 'nest-nuxt-auth'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
+<img width="985" height="386" alt="image" src="https://github.com/user-attachments/assets/33f6a628-60d8-4e2d-bce5-3d37eaa4be83" />
+
+<img width="998" height="474" alt="image" src="https://github.com/user-attachments/assets/19b21ceb-846e-45d4-bceb-2901987af2d6" />
+
+
+
 ## Stack
 
 - **Backend**: NestJS 11, Apollo Server (GraphQL), Prisma 5, JWT, bcrypt
